@@ -3,6 +3,7 @@ import { LightningElement, api } from 'lwc';
 const greetings = [
     'Hello',
     'Bonjour',
+    'வணக்கம்',
     '你好',
     'Hola',
     'Привет',

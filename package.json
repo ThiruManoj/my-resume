@@ -5,6 +5,9 @@
     "author": "Manoj Thirupathi",
     "bugs": "https://github.com/Manoj Thirupathi/my-resume/issues",
     "dependencies": {
+        "@fortawesome/fontawesome-free": "^5.15.3",
+        "@lwc/synthetic-shadow": "^1.17.6",
+        "@salesforce-ux/design-system": "^2.14.3",
         "compression": "^1.7.4",
         "express": "^4.17.1",
         "helmet": "^4.5.0"

@@ -1,0 +1,61 @@
+.profilePic{
+    border-radius : 50%;
+    width: 12rem
+}
+.contactLinkImg{
+    width: 2rem
+}
+.titleArticle{
+    background-color: aliceblue;
+}
+.title{
+    font-size: 2rem;
+}
+.subtitle{
+    font-size: 1rem;
+}
+.sidebar{
+    background-color: #dcedff;
+}
+.sidebar-title{
+    font-weight: 700;
+}
+.sidebar-field-label{
+    font-weight: 500;
+}
+.sidebar-field-value{
+    font-style: normal;
+}
+hr.sidebar-hr{
+    border-top: 2px solid black;
+}
+hr.title-hr{
+    border-top: 1px solid black;
+}
+.shadowbox{
+    border-radius: 5px;
+    box-shadow:
+    0 2.8px 2.2px rgba(0, 0, 0, 0.034),
+    0 6.7px 5.3px rgba(0, 0, 0, 0.048),
+    0 12.5px 10px rgba(0, 0, 0, 0.06),
+    0 22.3px 17.9px rgba(0, 0, 0, 0.072),
+    0 41.8px 33.4px rgba(0, 0, 0, 0.086),
+    0 100px 80px rgba(0, 0, 0, 0.12);
+}
+.image-shadowbox{
+    box-shadow:
+    0 2.8px 2.2px rgba(0, 0, 0, 0.034),
+    0 6.7px 5.3px rgba(0, 0, 0, 0.048),
+    0 12.5px 10px rgba(0, 0, 0, 0.06),
+    0 22.3px 17.9px rgba(0, 0, 0, 0.072),
+    0 41.8px 33.4px rgba(0, 0, 0, 0.086);
+}
+
+.text-shadowbox{
+    text-shadow:
+    0 2.8px 2.2px rgba(0, 0, 0, 0.034),
+    0 6.7px 5.3px rgba(0, 0, 0, 0.048),
+    0 12.5px 10px rgba(0, 0, 0, 0.06),
+    0 22.3px 17.9px rgba(0, 0, 0, 0.072),
+    0 41.8px 33.4px rgba(0, 0, 0, 0.086);
+}
